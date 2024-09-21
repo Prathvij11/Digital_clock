@@ -1,0 +1,20 @@
+body{
+    background-image: url(JyeRvp-800.jpg);
+    margin: 0;
+}
+#clock-cointerner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 100px;
+    
+}
+#clock{
+    font-size:monospace;
+    font-size:6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(189, 162, 162);
+    
+}
